@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# editor
+.vscode/
+
+# misc
+build/
+dist/
+temp/
+.DS_Store
+.env
+
+# coverage reports
+coverage
+
+# local databases config
+ormconfig.json
+# jest.config.json
+
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+
+tmp/*
+!tmp/.gitkeep
